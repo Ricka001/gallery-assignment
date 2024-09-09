@@ -1,0 +1,18 @@
+/* resets style on internet */
+/* @import url("https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css"); */
+
+* {
+  background-color: peachpuff;
+}
+
+/* make sure you have media queries!! */
+
+/* going to create a place to store images in js to make it easy */
+ 
+/* each image should be an object */
+let images = [{
+    src: "https://t4.ftcdn.net/jpg/05/16/68/23/360_F_516682305_t6RlR66aJ2UDPePFHZG08flzuYSIL9bm.jpg"
+    alt:
+    height:
+    width:
+}];
